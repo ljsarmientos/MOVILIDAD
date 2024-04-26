@@ -6,6 +6,7 @@ int opcion;
 int ruta;
 
 printf("\n\n Ingrese la ruta que desea buscar\n");
+
      printf("1.Rutas que funcionan los feriados\n");
      printf("2. A61 \n");
      printf("3. F61 \n");
